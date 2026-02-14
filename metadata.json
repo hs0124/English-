@@ -1,0 +1,7 @@
+{
+  "name": "FluentGenie AI English",
+  "description": "An advanced AI-powered English learning companion featuring daily scenarios, authentic reply polishing, and real-time voice coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
